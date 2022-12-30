@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Vendula
+# 👋 Hey there
 
 💭 *"Everyone should change their job in their lifetime. To change something to make it better."*
 
 ## About me
 
+🙋‍♀️ I'm **Vendula**
 👨‍💻 I become a **frontend coder**  
 🧠 I’m currently learning **JavaScript 1**  
 💻 My last project **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
