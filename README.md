@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vendula
 
-💭 *"Everyone should change their job in their lifetime. To change something to make it better"*
+💭 *"Everyone should change their job in their lifetime. To change something to make it better."*
 
 ## About me
 
