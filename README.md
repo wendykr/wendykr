@@ -4,7 +4,7 @@
 
 ## About me
 
-💎 I become a **frontend coder**  
+👨‍💻 I become a **frontend coder**  
 🧠 I’m currently learning **JavaScript 1**  
 💻 My last project **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
 ✉️ You can contact me at **[vendysacek@seznam.cz](mailto:vendysacek@seznam.cz)**  
