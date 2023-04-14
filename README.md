@@ -10,7 +10,7 @@
 
 🙋‍♀️ I'm **Vendula**  
 👨‍💻 I become a **frontend coder**  
-🧠 I’m currently learning **JavaScript 1**  
+🧠 I’m currently learning **JavaScript 2**  
 🛠️ My last project **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
 
 
