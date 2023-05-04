@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-💭 *"Everyone should change their job in their lifetime. To change something to make it better."*
+💭 *"I like frontend, because I can customise the website to my needs, not me succumbing to them"*
 
 
 <br>
@@ -9,7 +9,7 @@
 ## 🧐 About me
 
 🏢 I’m currently working as **web content editor**  
-👨‍💻 I become a **frontend coder**  
+👨‍💻 I become a **junior frontend coder**  
 🧠 I’m currently learning **JavaScript 2**  
 🛠️ My last project **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
 
