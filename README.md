@@ -8,7 +8,7 @@
 
 ## 🧐 About me
 
-🙋‍♀️ I'm **Vendula**  
+🏢 I am currently working as **web content editor**  
 👨‍💻 I become a **frontend coder**  
 🧠 I’m currently learning **JavaScript 2**  
 🛠️ My last project **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
