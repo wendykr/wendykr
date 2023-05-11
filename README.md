@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-💭 *"I like frontend, because I can customise the website to my needs, not me succumbing to them"*
+💭 *"I am education to become a junior frontend coder. I like frontend, because I can customise the website to my needs, not me succumbing to them."*
 
 
 <br>
