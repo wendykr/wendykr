@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-🎓 *"I am education to become a junior frontend coder."*  
+🎓 *"I am education to become a Junior Frontend Coder."*  
 💭 *I like frontend, because I can customise the website to my needs, not me succumbing to them."*
 
 
@@ -9,8 +9,8 @@
 
 ## 🧐 About me
 
-🏢 I’m currently working as **web content editor**  
-👨‍💻 I become a **junior frontend coder**  
+🏢 I’m currently working as **Web Content Editor**  
+👨‍💻 I become a **Junior Frontend Coder**  
 🧠 I’m currently learning **JavaScript 2**  
 🛠️ My last project **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
 
