@@ -1,7 +1,7 @@
 # 👋 Hey there
 
-🎓 *"I am education to become a Junior Frontend Coder."*  
-💭 *I like frontend, because I can customise the website to my needs, not me succumbing to them."*
+👣 *I want to transition from writing and creating web content to coding. That's why I'm educating myself to become a Junior Frontend Coder. I enjoy transforming graphic designs into modern and functional websites, and I'm looking for employment in a team where I can continue improving in that field.*  
+💭 *"I like frontend, because I can customise the website to my needs, not me succumbing to them."*
 
 
 <br>
