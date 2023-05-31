@@ -13,7 +13,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 🏢 I’m currently working as **Web Content Editor**  
 👨‍💻 I become a **Junior Frontend Coder**  
 🧠 I’m currently learning **JavaScript 2**  
-🏁 My next goal to learn **React**  
+🎯 My next goal to learn **React**  
 
 
 <br>
