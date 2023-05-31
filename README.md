@@ -30,7 +30,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 
 ## ✔ Completed Projects
 
-**[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
+- **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
 
 
 <br>
