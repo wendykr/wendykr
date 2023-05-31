@@ -28,7 +28,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 <br>
 
 
-## ✔  :heavy_check_mark: Completed Projects
+## ✔ Completed Projects
 
 **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
 
