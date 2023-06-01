@@ -29,7 +29,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 <br>
 
 
-## ✔ Completed Projects
+## ⏳ Latest Project
 
 - **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
 
