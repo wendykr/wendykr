@@ -15,6 +15,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 👨‍💻 I become a **Junior Frontend Coder**  
 🧠 I’m currently learning **JavaScript 2**  
 🎯 My next goal to learn **React**  
+🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
 
 
 <br>
@@ -31,7 +32,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 
 ## ⏳ Latest Project
 
-- **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)**  
+- **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)** - a static multi-page website coded with HTML/CSS and generated with Eleventy  
 
 
 <br>
