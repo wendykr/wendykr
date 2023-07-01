@@ -9,7 +9,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 <br>
 
 
-## 🙋‍♀️&nbsp;About me
+## 🙋‍♀️  About me
 
 🏢 I’m currently working as **Web Content Editor**  
 👨‍💻 I become a **Junior Frontend Coder**  
