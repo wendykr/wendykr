@@ -14,7 +14,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 🏢 I’m currently working as **Web Content Editor**  
 👨‍💻 I become a **Junior Frontend Coder**  
 🔭 I’m currently working on **[Winery Theme](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** website programmed via JavaScript   
-<!--🧠 I’m currently learning **JavaScript 2**  -->
+<!--🧠 I’m currently learning **JavaScript 2**-->  
 🎯 My next goal to learn **React**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
 
