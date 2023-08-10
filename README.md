@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hey there </h1>
 
-I want to transition from writing and creating web content to coding. That's why I'm educating myself to become a **Junior Frontend Coder**.  
+I want to transition from writing and creating web content to coding. That's why I'm educating myself to become a **Junior Frontend Developer/Coder**.  
 I enjoy transforming graphic designs into modern and functional websites, and I'm looking for employment in a team where I can continue improving in that field.  
 
 💭 *"I like frontend, because I can customise the website to my needs, not me succumbing to them."*
@@ -12,7 +12,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 ## 🙋‍♀️  About me
 
 🏢 I’m currently working as **Web Content Editor**  
-👨‍💻 I become a **Junior Frontend Coder**  
+👨‍💻 I become a **Junior Frontend Developer/Coder**  
 🔭 I’m currently programming **[Winery Theme](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** website via JavaScript   
 🎯 My next goal to learn **React**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
