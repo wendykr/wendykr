@@ -13,7 +13,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 
 🏢 I’m currently working as **Web Content Editor**  
 👨‍💻 I become a **Junior Frontend Developer & Coder**  
-🔭 I’m currently finishing programming **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** website via JavaScript   
+🎓 I’m currently educating on **ReactGirls Mentoring** as **Mentee**   
 🎯 My next goal to learn **React**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
 ⚡ If I'm not coding, you're typing **English words** into the keyboard 
@@ -61,4 +61,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 🧠 I’m currently learning **JavaScript 2**  
+🔭 I’m currently finishing programming **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** website via JavaScript  
 -->
