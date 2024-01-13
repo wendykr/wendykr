@@ -33,8 +33,9 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 
 ## :heavy_check_mark: Completed Project
 
+- **[Words Game](https://github.com/wendykr/WORDS-GAME)** - a dynamic multi-page website programmed with React and built with Vite
 - **[Personal portfolio](https://github.com/wendykr/RESUME-CV)** - a single page website coded with HTML, Tailwind & JavaScript  
-- **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** - a static multi-page website programmed with JavaScript and based on Webpack  
+- **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** - a static multi-page website programmed with JavaScript and built with Webpack  
 - **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)** - a static multi-page website coded with HTML/CSS and generated with Eleventy  
 
 
