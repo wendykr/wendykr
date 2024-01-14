@@ -44,7 +44,7 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 
 ## 📱 Let's Connect
 
-<p align="left"> <a href="mailto:vendysacek@seznam.cz" target="_blank" rel="noreferrer"><img src="images/icon-mail-seznam.svg" alt="mail" width="40" height="40"></a> </p>
+<p align="left"> <a href="mailto:vendysacek@seznam.cz" target="_blank" rel="noreferrer"><img src="images/icon-mail-seznam.svg" alt="mail" width="40" height="40"></a>  <a href="https://www.linkedin.com/in/vendula-krajickova/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"> </a> </p>
 
 
 <!--
