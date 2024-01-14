@@ -42,9 +42,9 @@ I enjoy transforming graphic designs into modern and functional websites, and I'
 <br>
 
 
-## ✍ Contact me
+## 📱 Let's Connect
 
-📧 [Send an e-mail](mailto:vendysacek@seznam.cz)
+<p align="left"> <a href="mailto:vendysacek@seznam.cz" target="_blank" rel="noreferrer"><img src="images/icon-mail-seznam.svg" alt="mail" width="40" height="40"></a> </p>
 
 
 <!--
