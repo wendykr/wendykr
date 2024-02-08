@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 Hey there </h1>
 
-I want to transition from writing and creating web content to coding. That's why I'm educating myself to become a **Junior Frontend Developer & Coder**.  
-I enjoy transforming graphic designs into modern and functional websites, and I'm looking for employment in a team where I can continue improving in that field.  
-
-💭 *"I like frontend, because I can customise the website to my needs, not me succumbing to them."*
+I focus on coding graphical designs into HTML/CSS and adding interactivity and dynamism to them through JavaScript.  
+As a **Junior Frontend Developer & Coder**, I lack extensive experience in the field, but I compensate for this with passion and a desire to learn through self-study and the development of personal projects.  
+Currently, I am educating myself in web application development using React, transitioning from writing static content to dynamic HTML.  
+I am seeking an opportunity to join a team where I can professionally grow and apply my skills in real-world projects.  
 
 
 <br>
