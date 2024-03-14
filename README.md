@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hey there </h1>
 
-I focus on coding graphical designs into HTML/CSS and adding interactivity and dynamism to them through JavaScript.  
+I focus on developing websites and web applications written in React. I'm proficient in coding graphical designs into HTML/CSS with JavaScript elements.  
 As a **Junior Frontend Developer & Coder**, I lack extensive experience in the field, but I compensate for this with passion and a desire to learn through self-study and the development of personal projects.  
-Currently, I am educating myself in web application development using React, transitioning from writing static content to dynamic HTML.  
+Currently, I am educating myself in web application development using React and aiming to write dynamic website content.  
 I am seeking an opportunity to join a team where I can professionally grow and apply my skills in real-world projects.  
 
 
