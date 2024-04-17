@@ -13,8 +13,8 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 
 🏢 I’m currently working as **Web Content Editor**  
 👨‍💻 I become a **Junior Frontend Developer & Coder**  
-🧠 I’m currently learning **React 2 - Tools and Techniques**   
-🎯 My next goal to learn **TypeScript**  
+🧠 I’m currently learning **React 2 - Tools and Techniques with TypeScript**   
+🎯 My next goal to learn **Vue**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
 ⚡ If I'm not coding, you're typing **English words** into the keyboard 
 
