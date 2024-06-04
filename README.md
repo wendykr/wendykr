@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hey there </h1>
 
-I focus on developing websites and web applications written in React. I'm proficient in coding graphical designs into HTML/CSS with JavaScript elements.  
+I focus on developing websites and web applications written in React with TypeScript. I'm proficient in coding graphical designs into HTML/CSS with JavaScript elements.  
 As a **Junior Frontend Developer & Coder**, I lack extensive experience in the field, but I compensate for this with passion and a desire to learn through self-study and the development of personal projects.  
-Currently, I am educating myself in web application development using React and aiming to write dynamic website content.  
+Currently, I am educating myself in web application development using React with TypeScript and aiming to write dynamic website content.  
 I am seeking an opportunity to join a team where I can professionally grow and apply my skills in real-world projects.  
 
 
@@ -16,7 +16,7 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 🧠 I’m currently learning **React 2 - Tools and Techniques with TypeScript**   
 🎯 My next goal to learn **Vue**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
-⚡ If I'm not coding, you're typing **English words** into the keyboard 
+⚡ If I'm not coding, I'm typing **English words** into the keyboard 
 
 
 <br>
@@ -33,9 +33,9 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 
 ## :heavy_check_mark: Completed Project
 
-- **[Words Game](https://github.com/wendykr/WORDS-GAME)** - a dynamic multi-page website programmed with React and built with Vite
-- **[Filmova databaze](https://github.com/wendykr/the-movie-db-app)** - a dynamic multi-page website programmed with React and built with Vite
-- **[Personal portfolio](https://github.com/wendykr/RESUME-CV)** - a single page website coded with HTML, Tailwind & JavaScript  
+- **[Personal website and portfolio](https://github.com/wendykr/MY-SITE)** - a dynamic single page website programmed with React & TypeScript and build with Vite
+- **[Words Game](https://github.com/wendykr/WORDS-GAME)** - a dynamic multi-page website programmed with React and built with Vite 
+- **[Filmova databaze](https://github.com/wendykr/the-movie-db-app)** - a dynamic multi-page website programmed with React and built with Vite 
 - **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** - a static multi-page website programmed with JavaScript and built with Webpack  
 - **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)** - a static multi-page website coded with HTML/CSS and generated with Eleventy  
 
