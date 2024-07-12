@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hey there </h1>
 
 I focus on developing websites and web applications written in React with TypeScript. I'm proficient in coding graphical designs into HTML/CSS with JavaScript elements.  
-As a **Junior Frontend Developer & Coder**, I lack extensive experience in the field, but I compensate for this with passion and a desire to learn through self-study and the development of personal projects.  
-Currently, I am educating myself in web application development using React with TypeScript and aiming to write dynamic website content.  
+As a **Junior Frontend Developer**, I lack extensive experience in the field, but I compensate for this with passion and a desire to learn through self-study and the development of personal projects.  
+Currently, I'm learning advanced React techniques and heading towards expanding my technical skills with Next.js  
 I am seeking an opportunity to join a team where I can professionally grow and apply my skills in real-world projects.  
 
 
@@ -12,9 +12,9 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 ## 🙋‍♀️  About me
 
 🏢 I’m currently working as **Web Content Editor**  
-👨‍💻 I become a **Junior Frontend Developer & Coder**  
-🧠 I’m currently learning **React 2 - Tools and Techniques with TypeScript**   
-🎯 My next goal to learn **Vue**  
+👨‍💻 I become a **Junior Frontend Developer**  
+🔭 I’m currently programming **[Tweetovani](https://github.com/wendykr/tweetovani-app)** app using React and TypeScript    
+🎯 My next goal to learn **Next.js**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
 ⚡ If I'm not coding, I'm typing **English words** into the keyboard 
 
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 🧠 I’m currently learning **JavaScript 2**  
+🧠 I’m currently learning **React 2 - Tools and Techniques with TypeScript**   
 🎓 I’m currently educating on **ReactGirls Mentoring** as **Mentee**   
 🔭 I’m currently finishing programming **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** website via JavaScript  
 -->
