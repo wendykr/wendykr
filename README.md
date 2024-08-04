@@ -13,8 +13,9 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 
 🏢 I’m currently working as **Web Content Editor**  
 👨‍💻 I become a **Junior Frontend Developer**  
-🔭 I’m currently programming **[Tweetovani](https://github.com/wendykr/tweetovani-app)** app using React and TypeScript    
-🎯 My next goal to learn **Next.js**  
+🔭 I’m currently programming **[Tweetovani](https://github.com/wendykr/tweetovani-app)** app using React and TypeScript   
+🧠 I’m currently learning **Next.js**  
+🎯 My next goal to learn **Vue**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
 ⚡ If I'm not coding, I'm typing **English words** into the keyboard 
 
