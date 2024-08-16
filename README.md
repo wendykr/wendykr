@@ -34,9 +34,10 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 
 ## :heavy_check_mark: Completed Project
 
-- **[Personal website and portfolio](https://github.com/wendykr/MY-SITE)** - a dynamic single page website programmed with React & TypeScript and build with Vite
-- **[Words Game](https://github.com/wendykr/WORDS-GAME)** - a dynamic multi-page website programmed with React and built with Vite 
-- **[Filmova databaze](https://github.com/wendykr/the-movie-db-app)** - a dynamic multi-page website programmed with React and built with Vite 
+- **[Superkviz](https://github.com/wendykr/superkviz-app-ts)** - a dynamic multi-page website programmed with React & TypeScript, fetched data from Supabase and build with Vite  
+- **[Personal website and portfolio](https://github.com/wendykr/MY-SITE)** - a dynamic single page website programmed with React & TypeScript and build with Vite  
+- **[Words Game](https://github.com/wendykr/WORDS-GAME)** - a dynamic multi-page website programmed with React, fetched data from Supabase and built with Vite  
+- **[Filmova databaze](https://github.com/wendykr/the-movie-db-app)** - a dynamic multi-page website programmed with React, fetched data from API and built with Vite  
 - **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** - a static multi-page website programmed with JavaScript and built with Webpack  
 - **[EXPO Event burza Pardubice](https://github.com/wendykr/ZAVERECNY-PROJEKT-Expo)** - a static multi-page website coded with HTML/CSS and generated with Eleventy  
 
