@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hey there </h1>
 
-I focus on developing websites and web applications written in React with TypeScript. I have experience in in coding graphical designs into HTML/CSS with JavaScript elements.  
-I am leading up to developing web applications built on Next.js using React.  
-I am seeking an opportunity to join a team where I can professionally grow and apply my skills in real-world projects.  
+I develop websites and web applications in React with TypeScript and have practical experience with pure JavaScript. I code website designs from Figma into responsive HTML/CSS and enhance them with interactive elements.  
+Next.js is a natural extension of my work with React, and I am gradually using it in the development of new projects.  
+I’m not actively looking at the moment, but I welcome new connections and short-term collaborations.  
 
 
 <br>
@@ -10,9 +10,7 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 
 ## 🙋‍♀️  About me
 
-🏢 I’m currently working as **Web Content Editor**  
-👨‍💻 I become a **Frontend Developer**  
-🔭 I’m currently programming **[Tweetovani](https://github.com/wendykr/tweetovani-app)** app using React and TypeScript   
+🏢 I’m currently working as **Frontend Developer**    
 🧠 I’m currently learning **Next.js**  
 🎯 My next goal to learn **Vue**  
 🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
@@ -33,6 +31,7 @@ I am seeking an opportunity to join a team where I can professionally grow and a
 
 ## :heavy_check_mark: Completed Project
 
+- **[XXXMuck](https://github.com/wendykr/xxxmuck-nextjs)** - a dynamic multi-page website programmed with Next.js & TypeScript, fetched data from API and build with Vite  
 - **[Superkviz](https://github.com/wendykr/superkviz-app-ts)** - a dynamic multi-page website programmed with React & TypeScript, fetched data from Supabase and build with Vite  
 - **[Personal website and portfolio](https://github.com/wendykr/MY-SITE)** - a dynamic single page website programmed with React & TypeScript and build with Vite  
 - **[Words Game](https://github.com/wendykr/WORDS-GAME)** - a dynamic multi-page website programmed with React, fetched data from Supabase and built with Vite  
@@ -63,8 +62,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+🏢 I’m currently working as **Web Content Editor**  
+👨‍💻 I become a **Frontend Developer**  
 🧠 I’m currently learning **JavaScript 2**  
 🧠 I’m currently learning **React 2 - Tools and Techniques with TypeScript**   
 🎓 I’m currently educating on **ReactGirls Mentoring** as **Mentee**   
+🔭 I’m currently programming **[Tweetovani](https://github.com/wendykr/tweetovani-app)** app using React and TypeScript 
 🔭 I’m currently finishing programming **[Vinarstvi](https://github.com/wendykr/ZAVERECNY-PROJEKT-Winery)** website via JavaScript  
 -->
