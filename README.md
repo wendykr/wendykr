@@ -1,20 +1,8 @@
-<h1 align="center"> 👋 Hey there </h1>
+<h1 align="center"> Hi 👋, I'm Vendy :) </h1>
 
-I develop websites and web applications in React with TypeScript and have practical experience with pure JavaScript. I code website designs from Figma into responsive HTML/CSS and enhance them with interactive elements.  
-Next.js is a natural extension of my work with React, and I am gradually using it in the development of new projects.  
-I’m not actively looking at the moment, but I welcome new connections and short-term collaborations.  
+Frontend Developer focused on building modern websites and web applications with React, Next.js, and TypeScript.  
+I work with Storybook for UI components, integrate APIs using OpenAPI specifications, manage server state with TanStack Query, and turn Figma designs into responsive, interactive interfaces.
 
-
-<br>
-
-
-## 🙋‍♀️  About me
-
-🏢 I’m currently working as **Frontend Developer**    
-🧠 I’m currently learning **Next.js**  
-🎯 My next goal to learn **Vue**  
-🔍 My projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/wendykr)** challenges  
-⚡ If I'm not coding, I'm typing **English words** into the keyboard 
 
 
 <br>
@@ -61,7 +49,7 @@ I’m not actively looking at the moment, but I welcome new connections and shor
 
 ## 📱 Let's Connect
 
-<p align="left"> <a href="mailto:vendysacek@seznam.cz" target="_blank" rel="noreferrer"><img src="images/icon-mail-seznam.svg" alt="mail" width="40" height="40"></a>  <a href="https://www.linkedin.com/in/vendula-krajickova/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/vendula-krajickova/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"> </a>  <a href="mailto:vendysacek@seznam.cz" target="_blank" rel="noreferrer"><img src="images/icon-mail-seznam.svg" alt="mail" width="40" height="40"></a> </p>
 
 
 <!--
